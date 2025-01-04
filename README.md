@@ -1,2 +1,2 @@
 # learn-javascript
-hola
+Un registro de mi aprendizaje y práctica de JavaScript.
